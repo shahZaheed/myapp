@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1014716871624",
+    "project_id": "trafficvoilationauth",
+    "storage_bucket": "trafficvoilationauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014716871624:android:65f99414ad3afcd4efc6fd",
+        "android_client_info": {
+          "package_name": "com.example.traffic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014716871624-tf03g161m9ta1b53m4fclmoq8qta1025.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.traffic",
+            "certificate_hash": "e7531bc2c22e2e471925f42143ee18225ec83e5d"
+          }
+        },
+        {
+          "client_id": "1014716871624-mskig2lhqc6qod5cb6ga664illpcgklg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVlj8AM0xtEwvISoVv16NL25MWn0wmOfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014716871624-mskig2lhqc6qod5cb6ga664illpcgklg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
